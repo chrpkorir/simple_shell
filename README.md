@@ -1,14 +1,5 @@
-## SHELL PROJECT
-
-## Objectives
-
-#### There are three objectives to this assignment:
-
-- To familiarize ourselves with the Linux programming environment.
-
-- To learn how processes are created, destroyed, and managed.
-
-- To gain exposure to the necessary functionality in shells.
+## 0x16. C - Simple Shell
+This project is an implementation of the shell created as the final project for the C code sprint at ALX Africa.
 
 ## Overview
 
@@ -151,7 +142,7 @@
 
 
 
-## AUTHORS:
+## Contributors:
 
 #### [Gina Beki](https://github.com/ginabeki)
 #### [Pius Mionki](https://github.com/mionki)
