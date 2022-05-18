@@ -139,4 +139,4 @@ This project is an implementation of the shell created as the final project for 
 ## Contributors:
 
 #### [Gina Beki](https://github.com/ginabeki)
-#### [Pius Mionki](https://github.com/mionki)
+#### [Pius Mionki](https://github.com/Mionki)
